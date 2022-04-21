@@ -46,18 +46,30 @@ Conducting code reviews
 Using inline editing and Markdown support
 Performing issue tracking
 However, in order to truly understand both platforms, it’s necessary to take a closer look at what each brings to the table.
+
 ## Bitbucket Diagram
 
 ![](https://valiantys.com/app/uploads/2017/10/bitbucketdatacenter-4-node-architecture_diagram.png) 
 
+GitHub Overview
+GitHub is arguably the most popular development platform, offering one of the largest coding communities out there. With more than 40 million users and 100 million repositories worldwide, it’s widely deemed the hub for Git version control, and is the largest host of source code on the planet:
+
+The GitHub website home page
+The GitHub website home page
+GitHub is an open source repository hosting service, which was started in 2004 and acquired by Microsoft in 2018. It’s written in Ruby and Erlang, and its primary focus is on public code. You can use it to host and review code, build software, and manage your development projects.
+
+GitHub’s features include:
+
+GitHub Pages and GitHub Gist
+Support for Git and SVN (partially)
+Direct integration with Zendesk, Azure, Cloudbees, Google Cloud, Amazon, Code Climate, and Heroku
+Support for over 200 programming languages
+GitHub desktop clients for Mac and Windows
+You can use GitHub for both your personal and business development projects. One of the biggest draws of GitHub is that it’s free for unlimited public repositories.
+
 ## Github Diagram
 
 ![](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
-
-## 
-
-
-## 
 
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
