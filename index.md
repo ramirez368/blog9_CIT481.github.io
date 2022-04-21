@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## [Github or Bitbucket](https://www.youtube.com/watch?v=dCvjIo6nfHo)
+## [Youtube Video for the Differences](https://www.youtube.com/watch?v=dCvjIo6nfHo)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
