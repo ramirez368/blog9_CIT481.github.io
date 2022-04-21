@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-## [The Wide World of Internet of Things](https://www.youtube.com/watch?v=LlhmzVL5bm8)
+## [Github or Bitbucket](https://www.youtube.com/watch?v=dCvjIo6nfHo)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## The Future of IoT: 
-## Top Trends We Expect to See in 2022
+## Bitbucket vs GitHub : 
+
 
 Intelligent connectivity proliferated in 2021 as COVID-19 throttled traditional working environments and demanded enterprises find new ways to maintain productivity. 
 
