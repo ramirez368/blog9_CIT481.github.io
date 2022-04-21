@@ -50,15 +50,10 @@ However, in order to truly understand both platforms, it’s necessary to take a
 
 ![](https://valiantys.com/app/uploads/2017/10/bitbucketdatacenter-4-node-architecture_diagram.png) 
 
-## 
-
-
-![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
+![](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
 
 ## 
 
-
-![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
 
 ## 
 
