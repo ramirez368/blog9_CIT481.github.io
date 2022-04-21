@@ -90,7 +90,15 @@ You can use GitHub for both your personal and business development projects. One
 
 GitHub is an open source repository hosting service, which was started in 2004 and acquired by Microsoft in 2018. It’s written in Ruby and Erlang, and its primary focus is on public code. You can use it to host and review code, build software, and manage your development projects.
 
+## Bitbucket vs GitHub: Key Differences
+The biggest difference between Bitbucket vs GitHub is that the former is used primarily for private repositories, while the latter is the go-to option for public repositories. This doesn’t mean you can’t use GitHub for private repositories and vice versa, just that those are the two platforms’ specialties.
 
+There are also some minor differences worth noting. For example, GitHub offers a desktop client and SVN support. Bitbucket does not, although it does provide Mercurial support. Let’s take a look at how the two platforms compare on a few other important factors.
+
+Extensions and Third-Party Integrations
+From issue tracking to project management tools, there are a variety of extensions and apps that can help extend the functionality and usefulness of your repository hosting platform. Both Bitbucket and GitHub come with a plethora of extensions and third-party integrations for you to choose from.
+
+From a quantitative standpoint, Bitbucket has a leg up over GitHub in terms of third-party integrations. This is due to the Atlassian Marketplace, which has approximately 2,300 apps that can be used both for Bitbucket and the Atlassian sister products. It also has cross-product compatibility, which can be particularly useful for enterprise developers:
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
