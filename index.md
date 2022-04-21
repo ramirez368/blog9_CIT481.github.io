@@ -46,9 +46,11 @@ Conducting code reviews
 Using inline editing and Markdown support
 Performing issue tracking
 However, in order to truly understand both platforms, it’s necessary to take a closer look at what each brings to the table.
-
+## Bitbucket Diagram
 
 ![](https://valiantys.com/app/uploads/2017/10/bitbucketdatacenter-4-node-architecture_diagram.png) 
+
+## Github Diagram
 
 ![](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
 
