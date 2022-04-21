@@ -48,12 +48,7 @@ Performing issue tracking
 However, in order to truly understand both platforms, it’s necessary to take a closer look at what each brings to the table.
 
 
-
-## 
-
-
-
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
+![](https://valiantys.com/app/uploads/2017/10/bitbucketdatacenter-4-node-architecture_diagram.png) 
 
 ## 
 
