@@ -10,42 +10,62 @@ layout: default
 ## Bitbucket vs GitHub : 
 
 
-Intelligent connectivity proliferated in 2021 as COVID-19 throttled traditional working environments and demanded enterprises find new ways to maintain productivity. 
+Choosing a repository hosting service is a big decision. How you host your code is an important part of your work and affects your productivity. So you’ll want to make sure you choose the platform that’s most conducive to your (and your team’s) specific needs and goals.
 
-Now, with around 60% expressing increased confidence in IoT’s ability to generate business insights according to Omdia, there’s enough runway for next-generation IoT applications and sensor-driven analytics.
+See how Kinsta stacks up against the competition.
 
-Many of the drivers behind this change existed last year. Artificial intelligence models like TinyML were already in ascendancy. Edge computing architectures can effortlessly sync up factory, retail and venue IoT networks to the cloud, while connectivity protocols ranging from 5G to LoRAWAN and NB-IoT give enterprises a full range of options.
+Select your provider
+Compare
 
-As we enter 2022 more of these concepts will expand.
+If you’re like most developers, you’re probably using Git as your Version Control System (VCS). However, deciding where to host the source code can be challenging. Two of the most popular options are Bitbucket and GitHub, but how do you decide which one is right for you?
+
+In this post, we’ll discuss the importance of choosing the right code repository. Then we’ll look at Bitbucket vs GitHub to see how the two compare.
 
 
-## More IoT Stakeholders Will Adopt AI/ML 
+## Why Choosing the Right Code Repository System Is Important for Developers
+Your repository hosting service is the third-party application that enhances your VCS (which in most cases is Git). The code repository you use can play a pivotal role in your development workflow.
 
-According to Omdia, the convergence of AI and edge computing is set to drive IoT’s impact and value proposition. Edge capabilities on devices out in the field offer reduced latency, power consumption and costs linked to ferrying data to the cloud. That paves the way for more complex data types to be analyzed. Omdia highlights three main bands for deploying AI and machine learning at the edge. 
+For example, it influences your ability to collaborate with other members on your team, and the efficiency of that process. It also affects how you measure, monitor, and manage your projects. Each code repository system comes with its pros and cons. There are a handful of important considerations to take into account when comparing them, including:
 
-First, ambient AI algorithms extract IoT sensor data without using audio or video as reference points. Due to reduced latency at the edge, these algorithms can seek granular judgments from noisy data avalanches that would otherwise stagnate in storage.
+VCS support
+Collaborator access
+Interface and usability
+Extensions and third-party integrations
+Pricing plans
+Another major factor to think about is whether you’re looking for a public or a private repository. Certain platforms are better suited for one use case or the other, so it’s important to know upfront what you’re going to need.
+
+Among the two most popular choices for source code repositories are Bitbucket and GitHub. While they are similar in many ways, there are some key differences worth considering before deciding which option is best for your development project needs.
+
+## An Introduction to Bitbucket and GitHub
+Bitbucket and GitHub are hosting platforms that provide both public and private repositories for developers. In terms of functionality, Bitbucket and GitHub operate in very similar ways. With both, you can perform basic commands such as:
+
+Creating and managing repositories
+Logging in using Two-Factor Authentication (2FA)
+Making pull requests
+Conducting code reviews
+Using inline editing and Markdown support
+Performing issue tracking
+However, in order to truly understand both platforms, it’s necessary to take a closer look at what each brings to the table.
+
+
+
+## 
+
+
 
 ![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
 
-## 5G to Make Headway
+## 
 
-According to Gartner, 5G is predominantly employed for consumer use cases at present, but that’s set to change over the next two years. This is because it strengthens key IoT operations like cameras and asset sensors, by making them more reliable. The U.S. is also one of a handful of countries developing 5G on mmWave frequencies though connections are sparse at present. The approach is set to strengthen 5G connectivity for massive machine-type communications where data production, exchange and implementation is handled by vast IoT fleets, with minimal human involvement. But mmWave 5G’s benefits will take a while to actuate, according to Gartner, which predicts it won’t reach maturity until 2025.
 
 ![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
 
-## Enterprises Seek to Eliminate Latency From IoT Networks
+## 
 
-The trends above will be especially beneficial for enterprises looking to implement real-time applications. In use cases ranging from live predictive maintenance to venue management and safety, the value of IoT extends by reducing limitations associated with cloud data relays.  
-
-Almost three in 10 (29%) of enterprise decision-makers cite the need for low-latency networks to support real-time applications as one of their three biggest concerns, according to an ESG Global survey. Moreover, the acceleration of edge computing technologies and next-generation connectivity means enterprises that nail implementation will possess more disruptive potential. Gartner recommends product leaders responsible for IoT should accelerate the adoption of edge and AI-enabled solutions, with a view of creating a long-term technology roadmap.
 
 ![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
 
-## Consumer to Embrace Smart Security Devices
-
-Another big trend in the smart home is the prevalence of security devices like video doorbells and smart camera systems. Kozak says CES was chock-full of such product briefings this year, with examples including Belkin’s Secure Video doorbell and Eve’s outdoor camera with integrated floodlights. 
-
-“There were even a few surprises like Eufy’s video doorbell that has two separate cameras and a door lock with facial recognition from U-tec Group,” Kozak said.
+## 
 
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
