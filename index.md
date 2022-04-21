@@ -51,7 +51,28 @@ However, in order to truly understand both platforms, it’s necessary to take a
 
 ![](https://valiantys.com/app/uploads/2017/10/bitbucketdatacenter-4-node-architecture_diagram.png) 
 
-GitHub Overview
+## Bitbucket Overview
+Bitbucket is a version control repository hosting service, which was created in 2008 and is owned by Atlassian. This Git repository management solution is written in Python, and built using the Django web framework:
+
+bitbucket website
+The Bitbucket website home page
+One of the main draws of Bitbucket is that it offers built-in flexibility in terms of VCS support. It also provides unlimited private code repositories for Mercurial and Git.
+
+Additional Bitbucket features include:
+
+Direct integration with Jira, Bamboo, Crucible, and Jenkins
+The ability to import repos from Git, Codeplex, GoogleCode, and SVN
+External authentication support for GitHub, Google, Facebook, and Twitter
+Heavy integration with Trello
+A Mac and Windows client (Sourcetree) and an Android app (Bitbeaker)
+While you can use Bitbucket to host open source repositories, it’s primarily geared towards enterprises and businesses that are developing private, proprietary code. Another unique benefit of Bitbucket is that it offers a secure platform for your code with Soc 2 Type 2 certification.
+
+## Github Diagram
+
+![](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
+
+
+## GitHub Overview
 GitHub is arguably the most popular development platform, offering one of the largest coding communities out there. With more than 40 million users and 100 million repositories worldwide, it’s widely deemed the hub for Git version control, and is the largest host of source code on the planet:
 
 The GitHub website home page
@@ -66,10 +87,6 @@ Direct integration with Zendesk, Azure, Cloudbees, Google Cloud, Amazon, Code Cl
 Support for over 200 programming languages
 GitHub desktop clients for Mac and Windows
 You can use GitHub for both your personal and business development projects. One of the biggest draws of GitHub is that it’s free for unlimited public repositories.
-
-## Github Diagram
-
-![](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
 
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
